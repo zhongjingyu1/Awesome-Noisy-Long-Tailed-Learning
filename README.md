@@ -13,7 +13,7 @@
 |[Probability guided loss for long-tailed multi-label image classification](https://ojs.aaai.org/index.php/AAAI/article/download/25244/25016)|AAAI|2023|-|-|
 |[Effect of Stage Training for Long-Tailed Multi-Label Image Classification](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Yamagishi_Effect_of_Stage_Training_for_Long-Tailed_Multi-Label_Image_Classification_ICCVW_2023_paper.pdf)|ICCV(Workshops)|2023|-|-|
 |[Adaptively Weighted Copy-Decoupling Resampling Strategy for Long-Tailed Multi-label Classification](https://ieeexplore.ieee.org/document/10332128)|ICPRAI|2023|-|-|
-|[LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition](https://aclanthology.org/2024.alvr-1.3.pdf)|ALVR|2023|[Code](https://github.com/richard-peng-xia/LMPT)|-|
+|[LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition](https://aclanthology.org/2024.alvr-1.3.pdf)|ALVR|2024|[Code](https://github.com/richard-peng-xia/LMPT)|-|
 |[Distributionally Robust Loss for Long-Tailed Multi-Label Image Classification](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04926.pdf)|ECCV|2024|[Code](https://github.com/Kunmonkey/DR-Loss)|-|
 |[Category-Prompt Refined Feature Learning for Long-Tailed Multi-Label Image Classification](https://arxiv.org/pdf/2408.08125)|ACM MM|2024|[Code](https://github.com/jiexuanyan/CPRFL)|-|
 |[Towards Gradient Equalization and Feature Diversification for Long-Tailed Multi-Label Image Recognition](https://ieeexplore.ieee.org/abstract/document/10856413)|TMM|2025|-|-|
