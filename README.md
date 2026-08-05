@@ -18,6 +18,7 @@
 |[Category-Prompt Refined Feature Learning for Long-Tailed Multi-Label Image Classification](https://arxiv.org/pdf/2408.08125)|ACM MM|2024|[Code](https://github.com/jiexuanyan/CPRFL)|-|
 |[Towards Gradient Equalization and Feature Diversification for Long-Tailed Multi-Label Image Recognition](https://ieeexplore.ieee.org/abstract/document/10856413)|TMM|2025|-|-|
 |[MLC-NC: Long-Tailed Multi-Label Image Classification Through the Lens of Neural Collapse](https://ojs.aaai.org/index.php/AAAI/article/view/34298/36453)|AAAI|2025|[Code](https://github.com/t1neo666/AAAI25_MLC-NC)|-|
+|[Category-Specific Selective Feature Enhancement for Long-Tailed Multi-Label Image Classification](https://arxiv.org/pdf/2408.08125)|ICCV|2025|[Code](https://github.com/jiexuanyan/CPRFL)|-|
 |  ----  | ----  |----  |---- |----|
 |  ----  | ----  |----  |---- |----|
 |[Enhancing Multi-Label Long-Tailed Classification on Chest X-Rays through ML-GCN Augmentation](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Seo_Enhancing_Multi-Label_Long-Tailed_Classification_on_Chest_X-Rays_Through_ML-GCN_Augmentation_ICCVW_2023_paper.pdf)|ICCV(Workshops)|2023|[Code](https://github.com/lisaseo9704/2023_ICCVW_CVAMD_NCIA500)|Medicine|
